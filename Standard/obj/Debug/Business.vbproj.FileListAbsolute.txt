@@ -1,0 +1,88 @@
+E:\ChristiansCarRentals\Standard\obj\Debug\ResolveAssemblyReference.cache
+E:\ChristiansCarRentals\Standard\obj\Debug\Standard.Resources.resources
+E:\ChristiansCarRentals\Standard\obj\Debug\GenerateResource.read.1.tlog
+E:\ChristiansCarRentals\Standard\obj\Debug\GenerateResource.write.1.tlog
+E:\ChristiansCarRentals\Standard\bin\Debug\Standard.dll
+E:\ChristiansCarRentals\Standard\bin\Debug\Standard.pdb
+E:\ChristiansCarRentals\Standard\bin\Debug\Standard.xml
+E:\ChristiansCarRentals\Standard\obj\Debug\Standard.dll
+E:\ChristiansCarRentals\Standard\obj\Debug\Standard.xml
+E:\ChristiansCarRentals\Standard\obj\Debug\Standard.pdb
+E:\ChristiansCarRentals2\Standard\bin\Debug\Standard.dll
+E:\ChristiansCarRentals2\Standard\bin\Debug\Standard.pdb
+E:\ChristiansCarRentals2\Standard\bin\Debug\Standard.xml
+E:\ChristiansCarRentals2\Standard\obj\Debug\ResolveAssemblyReference.cache
+E:\ChristiansCarRentals2\Standard\obj\Debug\Standard.Resources.resources
+E:\ChristiansCarRentals2\Standard\obj\Debug\GenerateResource.read.1.tlog
+E:\ChristiansCarRentals2\Standard\obj\Debug\GenerateResource.write.1.tlog
+E:\ChristiansCarRentals2\Standard\obj\Debug\Standard.dll
+E:\ChristiansCarRentals2\Standard\obj\Debug\Standard.xml
+E:\ChristiansCarRentals2\Standard\obj\Debug\Standard.pdb
+G:\ChristiansCarRentals3\Standard\bin\Debug\Standard.dll
+G:\ChristiansCarRentals3\Standard\bin\Debug\Standard.pdb
+G:\ChristiansCarRentals3\Standard\bin\Debug\Standard.xml
+G:\ChristiansCarRentals3\Standard\obj\Debug\ResolveAssemblyReference.cache
+G:\ChristiansCarRentals3\Standard\obj\Debug\Standard.Resources.resources
+G:\ChristiansCarRentals3\Standard\obj\Debug\GenerateResource.read.1.tlog
+G:\ChristiansCarRentals3\Standard\obj\Debug\GenerateResource.write.1.tlog
+G:\ChristiansCarRentals3\Standard\obj\Debug\Standard.dll
+G:\ChristiansCarRentals3\Standard\obj\Debug\Standard.xml
+G:\ChristiansCarRentals3\Standard\obj\Debug\Standard.pdb
+E:\ChristiansCarRentals3\Standard\bin\Debug\Standard.dll
+E:\ChristiansCarRentals3\Standard\bin\Debug\Standard.pdb
+E:\ChristiansCarRentals3\Standard\bin\Debug\Standard.xml
+E:\ChristiansCarRentals3\Standard\obj\Debug\ResolveAssemblyReference.cache
+E:\ChristiansCarRentals3\Standard\obj\Debug\Standard.Resources.resources
+E:\ChristiansCarRentals3\Standard\obj\Debug\GenerateResource.read.1.tlog
+E:\ChristiansCarRentals3\Standard\obj\Debug\GenerateResource.write.1.tlog
+E:\ChristiansCarRentals3\Standard\obj\Debug\Standard.dll
+E:\ChristiansCarRentals3\Standard\obj\Debug\Standard.xml
+E:\ChristiansCarRentals3\Standard\obj\Debug\Standard.pdb
+E:\ChristiansCarRentals4\Standard\bin\Debug\Standard.dll
+E:\ChristiansCarRentals4\Standard\bin\Debug\Standard.pdb
+E:\ChristiansCarRentals4\Standard\bin\Debug\Standard.xml
+E:\ChristiansCarRentals4\Standard\obj\Debug\ResolveAssemblyReference.cache
+E:\ChristiansCarRentals4\Standard\obj\Debug\Standard.Resources.resources
+E:\ChristiansCarRentals4\Standard\obj\Debug\GenerateResource.read.1.tlog
+E:\ChristiansCarRentals4\Standard\obj\Debug\GenerateResource.write.1.tlog
+E:\ChristiansCarRentals4\Standard\obj\Debug\Standard.dll
+E:\ChristiansCarRentals4\Standard\obj\Debug\Standard.xml
+E:\ChristiansCarRentals4\Standard\obj\Debug\Standard.pdb
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\bin\Debug\Standard.dll
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\bin\Debug\Standard.pdb
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\bin\Debug\Standard.xml
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\obj\Debug\Standard.Resources.resources
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\obj\Debug\Standard.dll
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\obj\Debug\Standard.xml
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals4\Standard\obj\Debug\Standard.pdb
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\bin\Debug\Standard.dll
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\bin\Debug\Standard.pdb
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\bin\Debug\Standard.xml
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\obj\Debug\Standard.Resources.resources
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\obj\Debug\Standard.dll
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\obj\Debug\Standard.xml
+C:\Documents and Settings\Stephanie\Desktop\ChristiansCarRentals5\Standard\obj\Debug\Standard.pdb
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\bin\Debug\Standard.dll
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\bin\Debug\Standard.pdb
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\bin\Debug\Standard.xml
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.Resources.resources
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.dll
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.xml
+C:\Documents and Settings\Stephanie\Desktop\School\Spring 2012\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.pdb
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\bin\Debug\Standard.dll
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\bin\Debug\Standard.pdb
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\bin\Debug\Standard.xml
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.Resources.resources
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Business.vbproj.GenerateResource.Cache
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.dll
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.xml
+E:\School\School\4. 2012 Spring\eBusiness\ChristiansCarRentals5\Standard\obj\Debug\Standard.pdb

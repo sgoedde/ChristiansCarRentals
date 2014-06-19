@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CustomerData
+</name>
+</assembly>
+<members>
+<member name="T:CustomerData.CarsSQLSrvrDataSet.CarSizeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.ReservationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.VehicleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.CarSizeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.ReservationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.VehicleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.CarSizeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.ReservationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet.VehicleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSetTableAdapters.CarSizeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSetTableAdapters.ReservationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSetTableAdapters.VehicleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CustomerData.CarsSQLSrvrDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CustomerData.CarsSQLSrvrDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CustomerData.CarsSQLSrvrDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager.UpdateAll(CustomerData.CarsSQLSrvrDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CustomerData.CarsSQLSrvrDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CustomerData.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CustomerData.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CustomerData.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
